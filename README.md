@@ -4,7 +4,7 @@ A simple bukkit util for adding "clickable" items. - 一个用于帮助添加可
 
 [Javadoc](https://bluebottle9.github.io/hit-it/bluescreen9/minecraft/bukkit/hitit/package-summary.html)
 
-maven: 
+maven(Unstable?-不稳定？): 
 
 ```
    <repository>
