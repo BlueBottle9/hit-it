@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"bluescreen9.minecraft.bukkit.hitit","l":"EventListener"},{"p":"bluescreen9.minecraft.bukkit.hitit","l":"HitItem"},{"p":"bluescreen9.minecraft.bukkit.hitit","l":"Hittable"}];updateSearchResults();
